@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @stefanoskapsoritakis
 - 👀 I’m interested in game development
-- 🌱 I’m currently learning react
+- 🌱 I’m currently learning firebase
 - 📫 How to reach me stefan7@hotmail.gr
 
 <!---
